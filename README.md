@@ -7,4 +7,5 @@ openCV ---> 3.2.0<br>
 Kivy ---> 1.10.1<br>
 <br>
 How to run this application?<br>
+cd code/<br>
 python2 viscomp-gui.py 
